@@ -94,10 +94,10 @@ If you find this helpful, consider supporting me:
 
 Follow me for more 1-shot revisions and tips to crack jobs & internships like this! 
 
-- **Meet T-Bot** - [Discover My Work](https://t-bot-blush.vercel.app/)
-- **Tushar Bhardwaj** - [Portfolio](https://tushar-bhardwaj.vercel.app/)
-- **Connect 1:1** - [Topmate](https://topmate.io/tusharbhardwaj)
+
+- **Rahul Khandelwal** - [Portfolio](https://rahul-liard.vercel.app/)
+
 - **GitHub:** [TuShArBhArDwA](https://github.com/TuShArBhArDwA)
-- **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004/)
-- **Email:** [tusharbhardwaj2617@gmail.com](mailto:tusharbhardwaj2617@gmail.com)
+
+- **Email:** [rk.devops.tute@gmail.com](mailto:rk.devops.tute@gmail.com)
 
